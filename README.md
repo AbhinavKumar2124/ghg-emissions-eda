@@ -71,12 +71,6 @@ ghg-emissions-analysis/
 
 ---
 
-## 📄 License
-
-This project is released under the MIT License. See `LICENSE` (if you add one).
-
----
-
 ## 📞 Contact
 
 Abhinav
