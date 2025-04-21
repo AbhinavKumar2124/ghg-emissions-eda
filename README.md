@@ -8,7 +8,7 @@ The interactive Streamlit dashboard is a **work in progress**.
 ---
 
 ## 📂 Repository Structure
-
+```
 ghg-emissions-analysis/
 ├── data/
 │   ├── processed.xlsx
@@ -29,7 +29,7 @@ ghg-emissions-analysis/
 │   └── Figure_9.png
 │
 └── README.md
-
+```
 ---
 
 ## 📖 What’s Included
