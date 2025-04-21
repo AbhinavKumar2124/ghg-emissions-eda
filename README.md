@@ -59,8 +59,8 @@ ghg-emissions-analysis/
 ## 💾 How to View
 
 1. **Clone this repository**  
-   git clone [https://github.com/YOUR_USERNAME/ghg-emissions-analysis.git](https://github.com/AbhinavKumar2124/ghg-emissions-eda)
-   cd ghg-emissions-analysis
+-git clone [https://github.com/YOUR_USERNAME/ghg-emissions-analysis.git](https://github.com/AbhinavKumar2124/ghg-emissions-eda)
+-cd ghg-emissions-analysis
    
 2. **View the report**
 - Open `/report/report.doc` in Microsoft Word.
