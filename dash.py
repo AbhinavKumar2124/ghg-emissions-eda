@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 #----------------------------------------------------------------------------------------Reading the Dataset-----------------------------------------------------------------------#
-df = pd.read_excel(r"\GHG's Emmission_Removals of top 25 GDPs.xlsx", sheet_name="Sheet2")
+df = pd.read_excel(r"data\processed.xlsx")
 
 #--------------------------------------------------------------------------------Data overview and basic exploration---------------------------------------------------------------#
 print("Head of the DataFrame:")
